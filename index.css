@@ -1,0 +1,116 @@
+#title{
+    background-color: #ff4c68;
+    text-align: center;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.navbar-brand{
+    font-size: 35px;
+    font-family: "Ubuntu";
+    margin: 15px;
+}
+.nav-item{
+    margin: 20px;
+}
+.row
+{
+    margin: 20px;
+}
+section h1{
+    font-size: 45px;
+    color: #fff;
+    font-weight: bold;
+    font-family: 'Macondo', cursive;
+    
+}
+.btn{
+    margin: 10px;
+    font-size: larger;
+}
+.iphone{
+    height: 100%;
+    width: 50%;
+    padding-top: 5%;
+    padding-left: 8%;
+    padding-bottom: 7%;
+    transform: rotate(25deg);
+}
+.feature{
+    padding: 60px;
+    text-align: center;
+}
+.fa-4x{
+    color: #ff4c68;
+}
+.fa-ciecle-check{
+    color: #fff;
+    background-color: #ff4c68;
+}
+.fa-4x:hover{
+    color:#891325
+}
+#testimonials{
+    padding: 65px;
+    text-align: center;
+    color: #fff;
+    background-color: #fa657c;
+}
+#test-img{
+    width: 17%;
+    border-radius: 100%;
+   justify-content: center;
+}
+#testimonial-image{
+    width: 17%;
+    border-radius: 100%;
+   justify-content: center;
+}
+#press{
+    text-align: center;
+    background-color: #fa657c;
+    padding-bottom: 3%;
+}
+.comlogo{
+    width: 15%;
+    margin-top: 20px;
+    margin-left: 40px ;
+    margin-right: 40px;
+    margin-bottom: 20px;
+}
+#pricing{
+    padding: 60px;
+    text-align: center;
+    
+}  
+.card{
+    height: 365px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.card-title{
+    background-color: #f4cdd3;
+    font-family: "Montserrat";
+    font-size: 40px;
+}
+#cta{
+    text-align: center;
+    background-color: #ff4c68;
+    padding: 7%;
+}
+#cta .btn{
+    padding-top: 9px;
+}
+#cta h3{
+    color: #fff;
+    font-size: 35px;
+}
+footer{
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.company{
+    margin-left: 8px;
+    margin-right: 8px;
+}
